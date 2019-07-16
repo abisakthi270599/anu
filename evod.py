@@ -1,4 +1,4 @@
-a=int(input())
+num=int(input())
 if(a%2==0):
 	print("even")
 elif(a<=0):
