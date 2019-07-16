@@ -1,7 +1,7 @@
 num=int(input())
-if(a%2==0):
+if(num%2==0):
 	print("Even")
-elif(a<=0):
-	print("Invalid")
-else:
+elif(num%2!=0):
 	print("Odd")
+else:
+    print("invalid")
