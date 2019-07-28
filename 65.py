@@ -1,2 +1,2 @@
-s2=input()
-print(s2)
+saiji=input()
+print(saiji)
